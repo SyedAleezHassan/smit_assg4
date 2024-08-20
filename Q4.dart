@@ -1,3 +1,3 @@
 void main(){
-print("enter your age..");
+print("enter your age.");
 }
