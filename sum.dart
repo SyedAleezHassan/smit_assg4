@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print("Enter a number:");
+  print("Enter a number..:");
   int userInput = int.parse(stdin.readLineSync()!);
 
   int result = calculateDigitSum(userInput);
