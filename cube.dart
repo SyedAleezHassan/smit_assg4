@@ -6,4 +6,4 @@ void main() {
   int userInp = int.parse(val);
   int finalRes = userInp * userInp * userInp;
   print("final output is $finalRes");
-}
+}///
